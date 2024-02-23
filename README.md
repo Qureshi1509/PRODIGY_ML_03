@@ -1,3 +1,5 @@
+hello viewer, 
+As you can see the repository contains clearly a jupyter file and not a seperate dataset file . 
 Unfortunately, due to the size of the dataset being excessively large I couldn't attach along . 
 You can download it from the below link:
 https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset
